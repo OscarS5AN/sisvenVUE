@@ -13,7 +13,15 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/customers">Customers</router-link>
           </li>
-          <!-- Agrega más enlaces para otras entidades -->
+          <li class="nav-item">
+            <router-link class="nav-link" to="/categories">Categories</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/pay-modes">Pay Modes</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/products">Products</router-link>
+          </li>
         </ul>
       </div>
     </div>
